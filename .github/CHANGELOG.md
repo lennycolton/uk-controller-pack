@@ -18,3 +18,4 @@
 17. Enhancement - Updated display conditions for buffers/lines/boxes - thanks to @hsugden (Harry Sugden)
 18. NODE-L Profiles list symbology adjusted for improved readability - thanks to @luke11brown (Luke Brown)
 19. Enhancement - SODVU box defined as TopSky map - thanks to @hsugden (Harry Sugden) and @luke11brown (Luke Brown)
+20. Enhancement - TopSky 2.3.1 (full release) included - thanks to @luke11brown (Luke Brown)
